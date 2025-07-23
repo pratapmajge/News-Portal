@@ -1,6 +1,5 @@
 # 🗂️ Legacy News Portal Project
-
-> ⚠️ **Archived Project - For Reference Only**  
+  
 > This project was built in 2022 using **PHP**, **MySQL**, and **vanilla JavaScript**.  
 > It reflects my early web development learning and has been archived to preserve growth.
 
@@ -20,7 +19,6 @@ A dynamic news portal web application featuring:
 - **Frontend:** HTML, CSS, JavaScript  
 - **Backend:** PHP  
 - **Database:** MySQL  
-- **Storage:** File-based image uploads  
 
 ---
 
